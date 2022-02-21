@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ca404dc0.chunk.css",
-    "main.js": "/static/js/main.57f21b64.chunk.js",
+    "main.js": "/static/js/main.1806a9db.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.9c1a5ede.js",
-    "static/js/2.61c164a8.chunk.js": "/static/js/2.61c164a8.chunk.js",
+    "static/js/2.4ad2cc1b.chunk.js": "/static/js/2.4ad2cc1b.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.61c164a8.chunk.js.LICENSE.txt": "/static/js/2.61c164a8.chunk.js.LICENSE.txt",
-    "static/media/Platform_Dashbroad_Logo.bb083cdf.png": "/static/media/Platform_Dashbroad_Logo.bb083cdf.png",
-    "static/media/Platform_Icon_Logo.ebababc2.png": "/static/media/Platform_Icon_Logo.ebababc2.png",
-    "static/media/Platform_White_Register_Page_Logo.240ad677.png": "/static/media/Platform_White_Register_Page_Logo.240ad677.png",
+    "static/js/2.4ad2cc1b.chunk.js.LICENSE.txt": "/static/js/2.4ad2cc1b.chunk.js.LICENSE.txt",
+    "static/media/Platform_Dashbroad_Logo.fa48e200.png": "/static/media/Platform_Dashbroad_Logo.fa48e200.png",
+    "static/media/Platform_Icon_Logo.8ce3c6ad.png": "/static/media/Platform_Icon_Logo.8ce3c6ad.png",
+    "static/media/Platform_White_Register_Page_Logo.a6469559.png": "/static/media/Platform_White_Register_Page_Logo.a6469559.png",
     "static/media/avatar-1.3921191a.jpg": "/static/media/avatar-1.3921191a.jpg",
     "static/media/avatar-3.2cfd5ba6.jpg": "/static/media/avatar-3.2cfd5ba6.jpg",
     "static/media/avatar-4.b23e41d9.jpg": "/static/media/avatar-4.b23e41d9.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9c1a5ede.js",
-    "static/js/2.61c164a8.chunk.js",
+    "static/js/2.4ad2cc1b.chunk.js",
     "static/css/main.ca404dc0.chunk.css",
-    "static/js/main.57f21b64.chunk.js"
+    "static/js/main.1806a9db.chunk.js"
   ]
 }
